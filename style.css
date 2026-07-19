@@ -100,3 +100,23 @@ footer{
     gap:10px;
   }
 }
+.hero{
+    min-height:100vh;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+}
+
+.card{
+    border-radius:12px;
+}
+
+.btn:hover{
+    opacity:0.9;
+}
+
+html{
+    scroll-behavior:smooth;
+}
